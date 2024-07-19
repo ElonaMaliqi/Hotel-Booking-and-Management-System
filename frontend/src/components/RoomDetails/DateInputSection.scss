@@ -1,0 +1,68 @@
+@import "./../../styles/variables.scss";
+
+.date-input-section {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+
+    .date-field {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        margin-right: 10px;
+
+        label {
+            margin-bottom: 5px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        input[type="date"] {
+            padding: 8px 150px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            outline: none;
+            transition: border-color 0.3s;
+
+            &:focus {
+                border-color: black;
+            }
+        }
+    }
+
+    button {
+        padding: 8px 20px;
+        font-size: 16px;
+        border: none;
+        background-color: $dark;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+
+        &:hover {
+            background-color: rgb(22, 21, 21);
+        }
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .date-input-section {
+        flex-direction: column;
+        align-items: stretch;
+
+        .date-field {
+            margin-bottom: 10px;
+
+            input[type="date"] {
+                width: 100%;
+            }
+        }
+
+        button {
+            align-self: stretch;
+        }
+    }
+}

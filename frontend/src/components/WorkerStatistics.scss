@@ -1,0 +1,77 @@
+.worker-statistics {
+    margin-top: 40px;
+
+    h3 {
+        font-family: "Playfair Display", serif;
+        color: rgb(96, 92, 92);
+        letter-spacing: 5px;
+        margin-bottom: 0;
+        font-weight: 400;
+        margin: 0 0 10px 80px;
+    }
+
+    .ratings {
+        margin: 0 0 20px 75px;
+
+        svg {
+            margin-right: 8px;
+        }
+    }
+
+    h2 {
+        font-size: 24px;
+        margin: 50px 0 20px 80px;
+        color: rgb(96, 92, 92);
+    }
+
+    table {
+        width: 90%;
+        margin: 0 auto;
+        border-collapse: collapse;
+        margin-top: 20px;
+        border: 1px solid #ddd;
+
+        th,
+        td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+
+        td {
+            color: #333;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        tbody tr:hover {
+            background-color: #f2f2f2;
+        }
+    }
+
+    .error-message {
+        color: red;
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .worker-statistics {
+        table {
+            width: 100%;
+        }
+    }
+}

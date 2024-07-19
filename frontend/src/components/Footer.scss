@@ -1,0 +1,33 @@
+@import "./../styles/variables.scss";
+
+footer {
+    margin-top: 170px;
+    font-size: 15px;
+}
+
+.footer-container {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    gap: 50px;
+    background-color: $dark;
+    color: white;
+
+    .footer-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        text-align: center;
+        margin: 100px 10px 0px 10px;
+    }
+
+    .copyrights {
+        text-align: center;
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    footer {
+        font-size: 13px;
+    }
+}
