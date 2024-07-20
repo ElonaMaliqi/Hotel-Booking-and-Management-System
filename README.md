@@ -2,17 +2,17 @@
 
 Developed a platform designed to facilitate booking and management operations for both clients and staff members of a hotel. Clients can register and log in to the website to book rooms based on room types. Staff members (including workers, managers, and the owner) have access to client and room data. Managers can update wage statuses for workers, while the owner can manage wages for workers and managers and see income from booked rooms.
 
-**Technologies Used:** ReactJS, PHP, MySQL, SASS
+ ReactJS, PHP, MySQL, SASS
 
 **Disclaimer:** This is not an actual hotel. All images and text used in this project are not my own and are utilized solely for project demonstration.
 
-## Instructions to Open the Project
+# Instructions to Open the Project
 
-1. Clone the Repository
+**1.** Clone the Repository
 ```bash
-git clone https://github.com/yourusername/breeze-hotel.git\
+git clone https://github.com/yourusername/breeze-hotel.git
 
-2.Setup the Backend:
+**2.** Setup the Backend:
 Move the backend folder to the htdocs folder of your XAMPP installation.
 Start the Apache and MySQL modules in XAMPP.
 
