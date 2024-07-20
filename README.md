@@ -28,5 +28,21 @@ Start the React application from frontend folder:\
 npm start
 
 **5.** Access the Application:\
-Open your web browser and go to http://localhost:3000 to access the frontend of the application.
+Open your web browser and go to http://localhost:3000 to access the frontend of the application.\
+
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/7ae6e71e-7f83-4c69-bf22-005c0e9cb90e)
+
+![2](https://github.com/user-attachments/assets/3b3df389-b35b-4017-9c54-343ff76b8756)
+
+![3](https://github.com/user-attachments/assets/99cf1409-d269-4d89-b46a-5ce8c4c37dd0)
+
+![4](https://github.com/user-attachments/assets/d0b0ca57-a854-42db-b047-61b483fce9c1)
+
+![5](https://github.com/user-attachments/assets/12d2a6b6-1f5a-4a09-aab1-eeacf18b3651)
+
+
+
+
 
