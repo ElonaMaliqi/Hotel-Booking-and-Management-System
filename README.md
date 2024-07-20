@@ -4,7 +4,7 @@ Developed a platform designed to facilitate booking and management operations fo
 
  **Technologies used:** ReactJS, PHP, MySQL, SASS
 
-**Disclaimer:** This is not an actual hotel. All images and text used in this project are not my own and are utilized solely for project demonstration.
+**Disclaimer:** This project is a demonstration and does not represent a real hotel. All images and text used in this project are not my own and are utilized solely for project demonstration.
 
 ## Instructions to Open the Project
 
