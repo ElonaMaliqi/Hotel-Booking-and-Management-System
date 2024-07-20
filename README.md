@@ -2,7 +2,7 @@
 
 Developed a platform designed to facilitate booking and management operations for both clients and staff members of a hotel. Clients can register and log in to the website to book rooms based on room types. Staff members (including workers, managers, and the owner) have access to client and room data. Managers can update wage statuses for workers, while the owner can manage wages for workers and managers and see income from booked rooms.
 
- ReactJS, PHP, MySQL, SASS
+ **Technologies used:** ReactJS, PHP, MySQL, SASS
 
 **Disclaimer:** This is not an actual hotel. All images and text used in this project are not my own and are utilized solely for project demonstration.
 
