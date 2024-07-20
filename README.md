@@ -13,7 +13,7 @@ git clone https://github.com/yourusername/breeze-hotel.git
 
 **2.** Setup the Backend:\
 Move the backend folder to the htdocs folder of your XAMPP installation.\
-Start the Apache and MySQL modules in XAMPP.\
+Start the Apache and MySQL modules in XAMPP.
 
 **3.** Setup the Database:\
 Open phpMyAdmin.\
@@ -28,7 +28,7 @@ Start the React application from frontend folder:\
 npm start
 
 **5.** Access the Application:\
-Open your web browser and go to http://localhost:3000 to access the frontend of the application.\
+Open your web browser and go to http://localhost:3000 to access the frontend of the application.
 
 ## Screenshots
 
