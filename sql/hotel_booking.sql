@@ -108,9 +108,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `phone`) VALUES
-(1, 'Elona Maliqi', 'elona@gmail.com', '$2y$10$kuhyjitMOaNSu3XS0O/HZOxbyKB9j3grUoHY.bRu6wRizsjpXlN0m', '+383 44 111 111'),
-(17, 'Bardha Maliqi', 'bardha@gmail.com', '$2y$10$hiLDAoSrz0Bm1TVVzROb/OB90Nx92BVtPy6xvi9nnT8xMcRex36Rq', '+383 44 111 111'),
-(18, 'Petrit Maliqi', 'petrit@gmail.com', '$2y$10$zy5klTH8vBP/hTkjUxQ9n.iWb9Qxv7QX3z7YO.leh7CvLJ2T7ohDu', '+383 44 111 111');
+(1, 'Elona Maliqi', 'elona@gmail.com', '$2y$10$kuhyjitMOaNSu3XS0O/HZOxbyKB9j3grUoHY.bRu6wRizsjpXlN0m', '111 111');
 
 -- --------------------------------------------------------
 
