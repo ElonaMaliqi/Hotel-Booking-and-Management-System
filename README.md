@@ -1,4 +1,4 @@
-# Breeze-Hotel-Booking-and-Management-System
+# Hotel-Booking-and-Management-System
 
 Developed a platform designed to facilitate booking and management operations for both clients and staff members of a hotel. Clients can register and log in to the website to book rooms based on room types. Staff members (including workers, managers, and the owner) have access to client and room data. Managers can update wage statuses for workers, while the owner can manage wages for workers and managers and see income from booked rooms.
 
