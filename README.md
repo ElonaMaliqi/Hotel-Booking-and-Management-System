@@ -9,7 +9,7 @@ Developed a platform designed to facilitate booking and management operations fo
 ## Instructions to Open the Project
 
 **1.** Clone the Repository\
-git clone https://github.com/ElonaMaliqi/Hotel-Booking-and-Management-System
+https://github.com/ElonaMaliqi/Hotel-Booking-and-Management-System
 
 **2.** Setup the Backend:\
 Move the backend folder to the htdocs folder of your XAMPP installation.\
